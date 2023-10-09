@@ -1,0 +1,18 @@
+# environment variables
+.env
+
+# dependencies
+/node_modules
+
+# production
+/build
+/public/build
+
+# prisma
+/prisma/migrations
+
+# MAC
+__MACOSX
+
+# other
+.cache
