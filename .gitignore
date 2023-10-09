@@ -15,4 +15,7 @@
 __MACOSX
 
 # other
+.idea
+.vscode
 .cache
+
