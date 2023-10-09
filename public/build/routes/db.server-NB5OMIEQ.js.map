@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["empty-module:./routes/db.server.ts", "browser-route-module:routes/db.server.ts?browser"],
+  "sourcesContent": ["module.exports = {};", "export { default } from \"./routes/db.server.ts\";"],
+  "mappings": ";;;;;;AAAA;AAAA;AAAA,WAAO,UAAU,CAAC;AAAA;AAAA;;;ACAlB,uBAAwB;",
+  "names": []
+}
